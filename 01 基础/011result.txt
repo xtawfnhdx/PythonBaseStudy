@@ -1,0 +1,4 @@
+utf-8
+b'\xe4\xb8\xad\xe6\x96\x87'
+ÄãºÃÊÀ½ç
+input you name:<class 'str'>
